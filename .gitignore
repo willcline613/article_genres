@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.DS_Store
+
+individuals/will/genre_model.pickle
+individuals/will/summarizer_model.pickle
+
+data/
